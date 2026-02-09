@@ -79,7 +79,7 @@ Outputs:
 
 ## Team
 
-Sanchit Panwar, Aayush Kumar, Saksham Raj
+Saksham Raj, Sanchit Panwar, Aayush Kumar
 
 Guide: Dr. Surbhi Saraswat
 
